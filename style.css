@@ -1,0 +1,23 @@
+#container{
+    width: 30%;
+    margin: 0 auto;
+    background-color: black;
+}
+div{
+    background-color: yellow;
+font-size: 3cm;
+}
+.first{
+    background-color: red;
+    height: 150px;
+    transition: height 60s linear;
+}
+.second{
+    background-color:#756;
+
+}
+div.first:hover{
+    height: 2000px;
+    background-color: blue;
+
+}
