@@ -14,7 +14,7 @@ min-height: 400px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 2fr 1fr 1fr 1fr 1fr;
     border: 3px dotted;
-    grid-gap: 2px;
+    grid-gap: 1px;
 
 
 
@@ -32,80 +32,80 @@ min-height: 400px;
 
     grid-row: 5;
     grid-column: 1/span 2;
-    background-color: blanchedalmond;
+    background-color: grey;
 }
 #container>div:nth-child(15){
     grid-row: 5;
     grid-column: 3;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(14){
     grid-row: 5;
     grid-column: 4;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(13){
     grid-row: 4;
     grid-column: 4;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(12){
     grid-row: 3;
     grid-column: 4;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(11){
     grid-row: 2;
     grid-column: 4;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(10){
     grid-row: 2;
     grid-column: 3;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(9){
     grid-row: 2;
     grid-column: 2;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(8){
     grid-row: 2;
     grid-column: 1;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(7){
     grid-row: 3;
     grid-column: 3;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(6){
     grid-row: 3;
     grid-column: 2;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(5){
     grid-row: 3;
     grid-column: 1;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(4){
     grid-row: 4;
     grid-column: 3;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(3){
     grid-row: 4;
     grid-column:2 ;
-    background-color: brown;
+    background-color: grey;
 }
 #container>div:nth-child(2){
     grid-row: 4;
     grid-column: 1;
-    background-color: brown;
+    background-color: grey;
 }#container>div:nth-child(16){
     grid-row: 1;
     grid-column: 1/5;
 
-    background-color: brown;
+    background-color: grey;
 }
