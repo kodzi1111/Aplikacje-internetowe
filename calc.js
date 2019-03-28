@@ -1,5 +1,4 @@
-const init = () =>{
-    const c = document.getElementById('container');
- [...c.children].forEach(el => console.log(el));
+function init(){
+console.log(document.getElementById('container'));
 }
-window.addEventListener('DOMContentLoaded', init);
+window.addEventListener('DOMContentLoaded',init);
